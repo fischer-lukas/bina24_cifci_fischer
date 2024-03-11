@@ -1,0 +1,1 @@
+https://www.bfs.admin.ch/bfs/de/home/statistiken/volkswirtschaft/volkswirtschaftliche-gesamtrechnung/bruttoinlandprodukt-kanton.assetdetail.28405461.html
