@@ -1,4 +1,1 @@
-Quelle: ?
-1. Formatierung zu CSV
-2. Clean-up -> entfernen von Hinweisen, etc.
-2. Umwandlung der Daten von Trillions to Millions
+https://www.statista.com/statistics/222196/receipts-and-outlays-of-the-us-government-since-fiscal-year-2000/
